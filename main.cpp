@@ -1,0 +1,5 @@
+
+voia main(void)
+{
+	
+}
